@@ -1,11 +1,37 @@
 ## Hi there 👋
 
-Hi, I'm Bhoomi, a web developer passionate about bringing ideas to life online. I'm your go-to person for crafting awesome websites using HTML, CSS, and JavaScript. I specialize in creating dynamic experiences with Vue.js and React.
+I'm Bhoomi Gohil!
 
-I thrive on making websites not just functional but also visually stunning. Thanks to tools like anime.js, I add lively animations that make sites memorable.
+I’m a passionate **Web Developer** with a focus on building robust and interactive web applications. I enjoy solving real-world problems through code, and I'm always eager to learn new technologies and improve my skills.
 
-In my journey, I've tackled various projects, from designing user-friendly interfaces to building robust applications. Every project is a chance to flex my creative coding muscles.
+### 🚀 Technologies & Tools
 
-What sets me apart is my expertise in Webflow and Framer development. I love using Webflow to create responsive and visually appealing websites with ease, and Framer allows me to bring interactive and dynamic prototypes to life with precision.
+- **Languages**: JavaScript, TypeScript, HTML5, CSS3
+- **Frameworks & Libraries**: React, Vue.js
+- **Version Control**: Git, GitHub
+- **Tools & Platforms**: VSCode, Chrome DevTools
 
-Ready to collaborate on something amazing? Let's dive into the endless possibilities of web development together!
+<!-- ### 🌟 Projects
+
+Here are some of the projects I've been working on:
+
+- [**Scrimba React Projects**](https://github.com/BhoomiGohil?tab=repositories&q=Scrimba): Collection of hands-on React projects where I explored state management, components, hooks, and more.
+- [**Blackjack Game**](https://github.com/BhoomiGohil/Scrimba-JS-Blackjack): A simple JavaScript game that mimics the popular Blackjack card game.
+- [**Tour & Travel Website**](https://github.com/BhoomiGohil/TS-TourTravels): A TypeScript-based project showcasing dynamic content rendering for a travel site.
+- [**Chrome Extension - Save Tabs**](https://github.com/BhoomiGohil/Scrimba-JS-SaveTabsChromeExtension): A handy extension to save and manage browser tabs. -->
+
+### 📈 GitHub Stats
+
+![Bhoomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhoomiGohil&show_icons=true&theme=radical)
+
+### 📫 How to Reach Me
+
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/bhoomigohil/)
+- **GitHub**: [Follow me](https://github.com/BhoomiGohil)
+- **Email**: [bhoomi30gohil@gmail.com](mailto:bhoomi30gohil@gmail.com)
+
+---
+
+### 👨‍💻 What I'm Learning Now
+
+I'm currently expanding my knowledge in **TypeScript** and **React** to deepen my expertise in front-end development. 
