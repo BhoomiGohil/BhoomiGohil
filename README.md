@@ -34,4 +34,4 @@ Here are some of the projects I've been working on:
 
 ### 👨‍💻 What I'm Learning Now
 
-I'm currently expanding my knowledge in **TypeScript** and **React** to deepen my expertise in front-end development. 
+I'm currently expanding my knowledge in front-end development. 
