@@ -28,7 +28,6 @@ Here are some of the projects I've been working on:
 
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/bhoomigohil/)
 - **GitHub**: [Follow me](https://github.com/BhoomiGohil)
-- **Email**: [bhoomi30gohil@gmail.com](mailto:bhoomi30gohil@gmail.com)
 
 ---
 
